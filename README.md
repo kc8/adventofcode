@@ -12,3 +12,6 @@ My answer uses somethiwng like n^3. I think a better solution might be to get th
 way we can skip going through the entire list multiple times as this would get slow. Another idea would be to sort the list throwing out 
 numbers that are to large and to small. 
 
+## Day 2
+Created a class for the password and kept track of whether it was valid within the class. Could do a better job of sperating out parsing the input better
+
