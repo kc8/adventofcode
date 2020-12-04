@@ -15,3 +15,5 @@ numbers that are to large and to small.
 ## Day 2
 Created a class for the password and kept track of whether it was valid within the class. Could do a better job of sperating out parsing the input better
 
+## Day 3
+Was able to do the first part, second part I left incomplete. I think the "Right 1, down 2" needs to be checked but not sure.
