@@ -17,3 +17,6 @@ Created a class for the password and kept track of whether it was valid within t
 
 ## Day 3
 Was able to do the first part, second part I left incomplete. I think the "Right 1, down 2" needs to be checked but not sure.
+
+## Day 4
+Counted the ':' and just checked if the line had 'cid'. Could most likely use less looping by cleaing the input better. Did not feel like doing part II.
