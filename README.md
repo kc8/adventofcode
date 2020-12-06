@@ -20,3 +20,7 @@ Was able to do the first part, second part I left incomplete. I think the "Right
 
 ## Day 4
 Counted the ':' and just checked if the line had 'cid'. Could most likely use less looping by cleaing the input better. Did not feel like doing part II.
+
+#Day 5 
+Finsished on day after. Wanted to figure it out with a 'midpoint formula' solution but figured out the binary solution instead. Second part was just sorting 
+and seeing the missing value? 
