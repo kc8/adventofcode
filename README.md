@@ -27,3 +27,9 @@ and seeing the missing value?
 
 ## Day 6 
 Used to many loops. Knowing more Python would probably reduce the amount of loops and such. 
+
+## Day 7 
+Started but did not finish. Looks like a recusion problem. Switched over to C# instead of Python. 
+
+## Day 8 
+Finsihed part I, did not start part II. 
