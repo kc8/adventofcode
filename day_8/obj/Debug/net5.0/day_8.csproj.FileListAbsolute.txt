@@ -1,0 +1,16 @@
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.csprojAssemblyReference.cache
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.AssemblyInfoInputs.cache
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.AssemblyInfo.cs
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8.deps.json
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8.runtimeconfig.json
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8.runtimeconfig.dev.json
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8.dll
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/ref/day_8.dll
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/bin/Debug/net5.0/day_8.pdb
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.dll
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/ref/day_8.dll
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.pdb
+/mnt/c/Users/Kyle_/DOcuments/projects/AdventOfCode2020/day_8/obj/Debug/net5.0/day_8.genruntimeconfig.cache
